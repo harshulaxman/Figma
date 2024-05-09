@@ -84,7 +84,8 @@ Figma
 ```
 
 ## OUTPUT:
-![image](https://github.com/harshulaxman/Figma/assets/145686689/eb43c2c8-6d98-405f-bf67-1e4028238b4b)
+![image](https://github.com/harshulaxman/Figma/assets/145686689/4664d135-f3da-4d37-a4e1-97dfe24794ad)
+
 
 
 
